@@ -1,0 +1,15 @@
+D:\c#\HolidayIdentifier\bin\Debug\net6.0\HolidayIdentifier.exe
+D:\c#\HolidayIdentifier\bin\Debug\net6.0\HolidayIdentifier.deps.json
+D:\c#\HolidayIdentifier\bin\Debug\net6.0\HolidayIdentifier.runtimeconfig.json
+D:\c#\HolidayIdentifier\bin\Debug\net6.0\HolidayIdentifier.dll
+D:\c#\HolidayIdentifier\bin\Debug\net6.0\HolidayIdentifier.pdb
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\HolidayIdentifier.csproj.AssemblyReference.cache
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\HolidayIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\HolidayIdentifier.AssemblyInfoInputs.cache
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\HolidayIdentifier.AssemblyInfo.cs
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\HolidayIdentifier.csproj.CoreCompileInputs.cache
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\HolidayIdentifier.dll
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\refint\HolidayIdentifier.dll
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\HolidayIdentifier.pdb
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\HolidayIdentifier.genruntimeconfig.cache
+D:\c#\HolidayIdentifier\obj\Debug\net6.0\ref\HolidayIdentifier.dll
